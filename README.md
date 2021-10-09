@@ -1,16 +1,20 @@
-### Hi there 👋
+### Info🤔
 
-<!--
-**skillfuly/skillfuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hey!
 
-Here are some ideas to get you started:
+i like to make skins!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+look below for more info
+
+```markdown
+Hello! I'm Skill and I love to make minecraft skins.
+
+-I've been making skins for about a year
+
+-I've made both eboy and egirl skins
+
+-My service is completely free!
+```
+
+hmu on discord if u want a skin made skill#5284
+
